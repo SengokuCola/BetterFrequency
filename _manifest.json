@@ -12,8 +12,8 @@
   "host_application": {
     "min_version": "0.10.0"
   },
-  "homepage_url": "https://github.com/MaiCore-with-u/maibot",
-  "repository_url": "https://github.com/MaiCore-with-u/maibot",
+  "homepage_url": "https://github.com/SengokuCola/BetterFrequency",
+  "repository_url": "https://github.com/SengokuCola/BetterFrequency",
   "keywords": ["frequency", "control", "focus_value", "talk_frequency", "plugin", "shortcut"],
   "categories": ["Chat", "Frequency", "Control"],
   
